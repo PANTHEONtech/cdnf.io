@@ -1,5 +1,5 @@
 # CDNF.io
-by [PANTHEON.tech](https://pantheon.tech) © 2020 PANTHEON.tech s.r.o.
+by [PANTHEON.tech](https://pantheon.tech) © 2020 - 2023 PANTHEON.tech s.r.o.
 
 Proudly running on Jekyll. A static website to showcase our cloud-native functions.
 
